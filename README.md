@@ -1,4 +1,3 @@
-"# README" 
 #Rogue-like Java game (unnamed)
 
 I programmed this for my 12th grade independent study project (2014) using Java, LWJGL 2, and Slick-Util.
